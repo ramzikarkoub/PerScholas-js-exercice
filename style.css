@@ -1,0 +1,62 @@
+.quizContainer {
+  /* border:solid black; */
+  /* height:44vh; */
+  padding: 1em;
+}
+.practice {
+  display: flex;
+  justify-content: space-between;
+}
+.problem {
+  /* border:solid navy; */
+  /* height:22vh; */
+  margin: 1em;
+}
+.trafficLight {
+  border: solid green;
+  /* height:185px; */
+  width: 100px;
+  margin: 1em;
+}
+.light {
+  border: solid black;
+  margin-top: 15%;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+.btnContainer {
+  /* border:solid orange; */
+  margin-top: 15%;
+}
+.quiz2 {
+  /* border:solid red; */
+  margin-top: 10px;
+  /* height:44vh; */
+}
+.box {
+  border: solid black;
+  height: 90px;
+  width: 90px;
+  margin: 1em;
+}
+.miniPractice {
+  /* border:solid black; */
+  display: flex;
+  justify-content: space-between;
+}
+.groovyQ {
+  border: solid blue;
+  margin: 1em;
+  height: 44vh;
+}
+.controller {
+  border: solid black;
+  background-color: black;
+  height: 55px;
+}
+
+.circle {
+  border-radius: 50%;
+}
